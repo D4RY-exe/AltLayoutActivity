@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Écran fantaisie</string>
+    <string name="email">Adresse email</string>
+    <string name="extension">Extension</string>
+    <string name="department">Département</string>
+    <string name="supervisor">Superviseur(euse)</string>
+    <string name="direct_reports">Rapports Directs</string>
+</resources>
