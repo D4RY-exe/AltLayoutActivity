@@ -24,7 +24,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textAppearance="@style/TextAppearance.AppCompat.Display3"
-            tools:text="Name" />
+            tools:text="@string/name" />
 
         <TextView
             android:id="@+id/emailLabel"
@@ -39,7 +39,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textAppearance="@style/TextAppearance.AppCompat.Display1"
-            tools:text="Email Address" />
+            tools:text="@string/email" />
 
         <TextView
             android:id="@+id/extensionLabel"
@@ -54,7 +54,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textAppearance="@style/TextAppearance.AppCompat.Display1"
-            tools:text="Extension" />
+            tools:text="@string/extension" />
 
         <TextView
             android:id="@+id/departmentLabel"
@@ -69,7 +69,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textAppearance="@style/TextAppearance.AppCompat.Display2"
-            tools:text="Department name" />
+            tools:text="@string/department" />
 
         <TextView
             android:id="@+id/supervisorLabel"
@@ -84,7 +84,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textAppearance="@style/TextAppearance.AppCompat.Display1"
-            tools:text="Supervisor\'s Name" />
+            tools:text="@string/supervisorName" />
 
         <TextView
             android:id="@+id/directReportsLabel"
